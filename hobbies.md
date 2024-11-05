@@ -9,6 +9,9 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* Gaming
+* Observing the sky
+* Working out
+
 
 
