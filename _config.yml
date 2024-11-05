@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Hami jafari"
   avatar           : "/assets/images/house.jpg"
-  bio              : I'm the best student.
+  bio              : Sky Enthusiast
   location         : "تهران"
   email            : hamijafari1384@gmail.com
   twitter: HamiJ84
@@ -138,7 +138,7 @@ author:
       #url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      #url: "http://t.me/Sauleh"
+      #url: "http://t.me/HJJ_84"
 
 # Site Footer
 footer:

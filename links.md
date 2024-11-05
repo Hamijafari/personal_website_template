@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* My Favourite Studio[https://www.naughtydog.com/]
-* My Passion[https://www.nasa.gov/]
-* Kish Institute of Science and Technology[https://kishvclass.com/]
+* [My Favourite Studio](https://www.naughtydog.com/)
+* [My Passion](https://www.nasa.gov/)
+* [Kish Institute of Science and Technology](https://kishvclass.com/)
