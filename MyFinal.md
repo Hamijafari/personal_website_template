@@ -4,7 +4,7 @@ author_profile: true
 permalink: /myfinal/
 title: MyFinal
 tags: []
-modified: 9-14-2019
+modified: 1-5-2025
 comments: false
 ---
 
@@ -14,9 +14,3 @@ comments: false
 
 - [sample item 1](https://fccourse.liara.run)
 - sample item 2
-
-| First Name | Last Name   |
-|------------|-------------|
-| YourName   | YourLastName|
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
