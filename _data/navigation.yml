@@ -10,6 +10,10 @@ main:
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
+  - title: "MyFinal"
+    url: /myfinal/
+  - title: "Blog"
+    url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
